@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-textrekognition-dev-95453-authRole",
+      "UnauthRoleArn": "arn:aws:iam::494849973689:role/amplify-textrekognition-dev-95453-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::494849973689:role/amplify-textrekognition-dev-95453-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-textrekognition-dev-95453-deployment",
+      "UnauthRoleName": "amplify-textrekognition-dev-95453-unauthRole",
+      "StackName": "amplify-textrekognition-dev-95453",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:494849973689:stack/amplify-textrekognition-dev-95453/3dcdb3b0-d814-11ed-bb44-0a39fee3760e",
+      "AmplifyAppId": "d3afspqe0xdaw2"
+    },
+    "categories": {
+      "auth": {
+        "textrekognition1972fb83": {}
+      },
+      "storage": {
+        "S3FriendlyName": {}
+      }
+    }
+  }
+}

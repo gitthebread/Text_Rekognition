@@ -29,6 +29,13 @@ android {
 }
 
 dependencies {
+    implementation 'com.amplifyframework:aws-storage-s3:2.5.0'
+    implementation 'com.amplifyframework:aws-auth-cognito:2.5.0'
+
+    implementation 'com.amazonaws:aws-android-sdk-core:2.65.0'
+    implementation 'com.amazonaws:aws-android-sdk-rekognition:2.65.0'
+    implementation 'com.amazonaws:aws-java-sdk-s3'
+    implementation 'com.amazonaws:aws-android-sdk-ddb:2.3.9'
 
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.google.android.material:material:1.8.0'
